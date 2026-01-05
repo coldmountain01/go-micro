@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# build artifacts / binaries
+broker-service/brokerApp
+front-end/frontApp
+
+# optional: ignore these names anywhere
+**/brokerApp
+**/frontApp
+
+# logs / temp
+*.log
+tmp/
+temp/
